@@ -31,6 +31,7 @@ import {
   AiFillHtml5,
   AiOutlineGitlab,
   AiFillPhone,
+  AiFillDribbbleCircle,
 } from "react-icons/ai";
 
 import {
@@ -91,6 +92,7 @@ import {
 } from "react-icons/fa6";
 
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
+import { Typewriter } from "react-simple-typewriter";
 
 export const resumeLink = "https://drive.google.com/file/d/1sdbpGavOoualzXIrD7M5A1-JCMszYi4n/view?usp=sharing";
 export const repoLink = "https://github.com/urmit0812";
@@ -606,6 +608,11 @@ export const socialMedia = [
     link: "https://www.linkedin.com/in/urmit-patel0812",
   },
   {
+    id: "social-media-5",
+    icon: AiFillDribbbleCircle,
+    link: "https://dribbble.com/urmit08128",
+  },
+  {
     id: "social-media-2",
     icon: AiFillGithub,
     link: "https://github.com/urmit0812",
@@ -615,7 +622,7 @@ export const socialMedia = [
     icon: AiFillMail,
     link: "mailto:urmitpatel0812@gmail.com",
   },
- 
+
   {
     id: "social-media-4",
     icon: AiFillInstagram,
@@ -625,7 +632,7 @@ export const socialMedia = [
     id: "social-media-5",
     icon: AiFillPhone,
     link: "tel:+91 8160323888",
-  }
+  },
 ];
 
 // Your professional summary
@@ -633,7 +640,7 @@ export const aboutMe = {
     name: "Urmit Patel",
     githubUsername: ' urmit0812',
     tagLine: "FDE Intern @Unified Mentor | PIT'25",
-    intro: "UI/UX Designer from India, constantly refining designs and brainstorming innovative user experiences to solve real-world problems."
+    intro: "Ui/Ux Designer and Front-End Developer from India, constantly refining designs and brainstorming innovative user experiences to solve real-world problems."
 }
 
 // The maximum number of PRs to be displayed in the Open Source Contributions section.
