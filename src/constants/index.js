@@ -222,7 +222,7 @@ export const skills = [
         icon: SiPython,
         name: "Python",
       },
-      
+
       {
         id: "pl-5",
         icon: DiJava,
@@ -233,32 +233,34 @@ export const skills = [
         icon: SiC,
         name: "C",
       },
-      
-     
     ],
   },
   {
     title: "Frameworks/Libraries",
     items: [
-      
-      
-  
       {
         id: "f-1",
         icon: SiReact,
         name: "ReactJS",
       },
-      {
-        id: "f-2",
-        icon: SiBootstrap,
-        name: "Bootstrap",
-      },
+
       {
         id: "f-5",
         icon: SiTailwindcss,
         name: "Tailwind CSS",
       },
-    ] 
+      {
+        id: "f-2",
+        icon: SiNextdotjs,
+        name: "NextJS",
+      },
+      {
+        id: "f-3",
+        icon: SiBootstrap,
+        name: "Bootstrap",
+      },
+      
+    ],
   },
   {
     title: "Tools",
@@ -266,7 +268,7 @@ export const skills = [
       {
         id: "t-1",
         icon: SiFigma,
-        name: "Figma"
+        name: "Figma",
       },
       {
         id: "t-2",
@@ -298,13 +300,13 @@ export const skills = [
         icon: SiMysql,
         name: "MySQL",
       },
-     
+
       {
         id: "t-8",
         icon: SiVisualstudiocode,
         name: "VS Code",
       },
-      
+
       {
         id: "t-9",
         icon: AiFillGithub,
@@ -315,7 +317,6 @@ export const skills = [
         icon: SiNetlify,
         name: "Netlify",
       },
-      
     ],
   },
 ];
