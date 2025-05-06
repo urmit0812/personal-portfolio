@@ -372,7 +372,7 @@ export const experiences = [
     positions: [
       {
         title: "Front-End Developer Intern",
-        duration: "Dec 2024 - Present",
+        duration: "Dec 2024 - April 2025",
         content: [
           {
             text: " Participated in front-end development projects, contributing to the design and implementation of user interfaces. "                       
