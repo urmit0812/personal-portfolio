@@ -330,7 +330,7 @@ export const experiences = [
     positions: [
       {
         title: "UI/UX Developer Intern",
-        duration: "March 2024 - Present",
+        duration: "March 2025 - Present",
         content: [
           {
             text: " Creating responsive UI components using modern design principles to ensure seamless integration and optimal performance in AR/VR/MR environments. ",
