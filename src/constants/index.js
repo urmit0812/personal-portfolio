@@ -351,7 +351,7 @@ export const experiences = [
     positions: [
       {
         title: "UI/UX Designer Intern",
-        duration: "Feb 2025 - May 2025",
+        duration: "Feb 2024 - May 2025",
         content: [
           {
             text: " Collaborated with cross-functional teams at Infotact Solutions to design user-centric interfaces, boosting engagement and reducing friction. ",
