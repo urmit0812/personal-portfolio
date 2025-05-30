@@ -330,7 +330,7 @@ export const experiences = [
     positions: [
       {
         title: "UI/UX Developer Intern",
-        duration: "March 2024 - Present",
+        duration: "March 2025 - Present",
         content: [
           {
             text: " Creating responsive UI components using modern design principles to ensure seamless integration and optimal performance in AR/VR/MR environments. ",
@@ -422,29 +422,29 @@ export const projects = [
       {
         id: "icon-1",
         icon: SiHtml5,
-        name: "Html"
+        name: "Html",
       },
       {
         id: "icon-2",
         icon: SiCss3,
-        name: "CSS"
+        name: "CSS",
       },
       {
         id: "icon-3",
         icon: SiJavascript,
-        name: "Javascript"
+        name: "Javascript",
       },
       {
         id: "icon-4",
         icon: SiFigma,
-        name: "Figma"
+        name: "Figma",
       },
     ],
-  }, 
+  },
   {
     id: "project-4",
     title: "Accesible Travel",
-    link: "https://www.figma.com/design/j6AYCNYmKNQpoRcxbsoerG/Ryan-Air?node-id=0-1&t=up2xxbgsVxiarL72-1",
+    link: "https://www.figma.com/design/j6AYCNYmKNQpoRcxbsoerG/Ryan-Air?node-id=0-1&t=9OFKiBWQMqb1uVxI-1",
     image: accessible,
     content:
       "RyanAir, a European low-cost airline, was chosen for this project to enhance inclusivity and accessibility within the app. The goal of the project was to elevate the importance of Special Assistance by integrating it directly into the 'Book a Flight' flow. This improvement aims to make the booking experience more inclusive for users with disabilities, parents traveling with children, elderly passengers, and those with specific health conditions",
@@ -452,19 +452,19 @@ export const projects = [
       {
         id: "icon-1",
         icon: SiFigma,
-        name: "Figma"
+        name: "Figma",
       },
       {
         id: "icon-2",
         icon: SiAdobecreativecloud,
-        name: "Adobe Creative Cloud"
-      }, 
+        name: "Adobe Creative Cloud",
+      },
     ],
   },
   {
     id: "project-5",
     title: "Obgyn",
-    link: "https://www.figma.com/design/kQBASi60EOqzhDn4MJEI5D/Obgyn(client-Infotact)?node-id=3-3715&t=UPI2ZFfhV9t67a6P-1",
+    link: "https://www.figma.com/design/kQBASi60EOqzhDn4MJEI5D/Obgyn-client-?node-id=0-1&t=b3ace99hgNpffUOS-1",
     image: Obgyn,
     content:
       "Young gynaecologist needs a brand new responsive website that supports her business activity, makes her known to the public and increases the online presence of her clinic, now available only on social media.",
@@ -472,12 +472,12 @@ export const projects = [
       {
         id: "icon-1",
         icon: SiFigma,
-        name: "Figma"
+        name: "Figma",
       },
       {
         id: "icon-2",
         icon: SiAdobecreativecloud,
-        name: "Adobe Creative Cloud"
+        name: "Adobe Creative Cloud",
       },
     ],
   },
@@ -490,30 +490,29 @@ export const projects = [
     content:
       "A cross-platform mobile application that brings people closer to the physical environment and forms meaningful connections by organising real-world Treasure Hunts for free and winning rewards.",
     stack: [
-      
       {
         id: "icon-5",
         icon: SiFigma,
-        name: "Figma"
+        name: "Figma",
       },
       {
         id: "icon-2",
         icon: SiFlutter,
-        name: "Flutter"
+        name: "Flutter",
       },
       {
         id: "icon-6",
         icon: SiGooglemaps,
-        name: "Google Maps API"
+        name: "Google Maps API",
       },
       {
         id: "icon-7",
         icon: SiDart,
-        name: "Dart"
+        name: "Dart",
       },
     ],
   },
-  
+
   {
     id: "project-2",
     title: "EVolt",
@@ -526,27 +525,27 @@ export const projects = [
       {
         id: "icon-1",
         icon: SiHtml5,
-        name: "Html"
+        name: "Html",
       },
       {
         id: "icon-2",
         icon: SiCss3,
-        name: "CSS"
+        name: "CSS",
       },
       {
         id: "icon-3",
         icon: SiJavascript,
-        name: "Javascript"
+        name: "Javascript",
       },
       {
         id: "icon-4",
         icon: SiFigma,
-        name: "Figma"
+        name: "Figma",
       },
       {
         id: "icon-5",
         icon: SiMysql,
-        name: "Mysql"
+        name: "Mysql",
       },
     ],
   },
@@ -562,9 +561,8 @@ export const projects = [
       {
         id: "icon-4",
         icon: SiFigma,
-        name: "Figma"
+        name: "Figma",
       },
-      
     ],
   },
   {
@@ -578,27 +576,26 @@ export const projects = [
       {
         id: "icon-1",
         icon: SiReact,
-        name: "React"
+        name: "React",
       },
       {
         id: "icon-2",
         icon: SiTailwindcss,
-        name: "Tailwind CSS"
+        name: "Tailwind CSS",
       },
       {
         id: "icon-3",
         icon: AiFillHtml5,
-        name: "HTML"
+        name: "HTML",
       },
 
       {
         id: "icon-4",
         icon: SiJavascript,
-        name: "JavaScript"
+        name: "JavaScript",
       },
     ],
   },
-  
 ];
 
 // Links to your social media profiles
